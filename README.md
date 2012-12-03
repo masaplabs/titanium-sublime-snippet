@@ -3,7 +3,7 @@ Titanium Mobile Sublime Text Snippets
 
 ## Usage
 
-### Command Palette
+### How to use
 
 * these files copy on " ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/ "
 
